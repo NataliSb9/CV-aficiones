@@ -21,7 +21,6 @@ p {
   margin-left: 3%;
   font-family: "Roboto", sans-serif;
   font-size: 14px;
-  line-height: 1.5em;
   text-align: justify;
 }
 .aficiones {
@@ -42,10 +41,6 @@ nav ul {
 nav ul li {
   font-size: 17px;
   list-style: none;
+  line-height: 10%;
   font-family: "Karla", sans-serif;
-}
-
-nav a {
-  text-decoration: none;
-  list-style: none;
 }
